@@ -1,0 +1,124 @@
+{
+  "audits": [
+    {
+      "id": "1",
+      "mvpd": "Comcast",
+      "auditPeriod": "Q1 2023",
+      "fieldWorkStatus": "Completed",
+      "auditReportDeliveryDate": "2023-04-15",
+      "networks": "NBC, ESPN",
+      "payments": 50000,
+      "findings": 3,
+      "totalVariance": 1500,
+      "hasDownload": true
+    },
+    {
+      "id": "2",
+      "mvpd": "AT&T",
+      "auditPeriod": "Q2 2023",
+      "fieldWorkStatus": "In Progress",
+      "auditReportDeliveryDate": "2023-07-10",
+      "networks": "HBO, CNN",
+      "payments": 75000,
+      "findings": 5,
+      "totalVariance": 2300,
+      "hasDownload": false
+    },
+    {
+      "id": "3",
+      "mvpd": "Verizon",
+      "auditPeriod": "Q3 2023",
+      "fieldWorkStatus": "Pending",
+      "auditReportDeliveryDate": "2023-10-20",
+      "networks": "FOX, ABC",
+      "payments": 62000,
+      "findings": 4,
+      "totalVariance": 1800,
+      "hasDownload": true
+    },
+    {
+      "id": "4",
+      "mvpd": "Charter",
+      "auditPeriod": "Q4 2023",
+      "fieldWorkStatus": "Completed",
+      "auditReportDeliveryDate": "2024-01-15",
+      "networks": "CBS, TNT",
+      "payments": 82000,
+      "findings": 6,
+      "totalVariance": 2500,
+      "hasDownload": true
+    },
+    {
+      "id": "5",
+      "mvpd": "Cox",
+      "auditPeriod": "Q1 2024",
+      "fieldWorkStatus": "In Progress",
+      "auditReportDeliveryDate": "2024-04-18",
+      "networks": "NBC, MSNBC",
+      "payments": 70000,
+      "findings": 2,
+      "totalVariance": 1200,
+      "hasDownload": false
+    },
+    {
+      "id": "6",
+      "mvpd": "Optimum",
+      "auditPeriod": "Q2 2024",
+      "fieldWorkStatus": "Pending",
+      "auditReportDeliveryDate": "2024-07-12",
+      "networks": "HBO, Showtime",
+      "payments": 56000,
+      "findings": 3,
+      "totalVariance": 1400,
+      "hasDownload": true
+    },
+    {
+      "id": "7",
+      "mvpd": "Spectrum",
+      "auditPeriod": "Q3 2024",
+      "fieldWorkStatus": "Completed",
+      "auditReportDeliveryDate": "2024-10-22",
+      "networks": "FOX, ESPN",
+      "payments": 90000,
+      "findings": 7,
+      "totalVariance": 3000,
+      "hasDownload": true
+    },
+    {
+      "id": "8",
+      "mvpd": "Frontier",
+      "auditPeriod": "Q4 2024",
+      "fieldWorkStatus": "In Progress",
+      "auditReportDeliveryDate": "2025-01-18",
+      "networks": "CBS, Starz",
+      "payments": 64000,
+      "findings": 4,
+      "totalVariance": 1600,
+      "hasDownload": false
+    },
+    {
+      "id": "9",
+      "mvpd": "Mediacom",
+      "auditPeriod": "Q1 2025",
+      "fieldWorkStatus": "Pending",
+      "auditReportDeliveryDate": "2025-04-20",
+      "networks": "NBC, ABC",
+      "payments": 48000,
+      "findings": 2,
+      "totalVariance": 1000,
+      "hasDownload": true
+    },
+    {
+      "id": "10",
+      "mvpd": "RCN",
+      "auditPeriod": "Q2 2025",
+      "fieldWorkStatus": "Completed",
+      "auditReportDeliveryDate": "2025-07-25",
+      "networks": "HBO, Cinemax",
+      "payments": 77000,
+      "findings": 6,
+      "totalVariance": 2400,
+      "hasDownload": true
+    }
+  ]
+}
